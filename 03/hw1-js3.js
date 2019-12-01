@@ -1,4 +1,3 @@
-// Option_2
 var a = 1, b = 2, c = 3
 if (a < b == true) {
     if (a < c == true) {
